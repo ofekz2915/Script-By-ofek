@@ -1,3 +1,3 @@
-    script By ofek1s#4859
-    Description: Test
-    https://github.com/ofekz2915/new-git-eli.git
+    By ofek1s#4859
+    Description: all script
+    https://github.com/ofekz2915/Script-By-ofek.git
